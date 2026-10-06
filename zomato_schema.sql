@@ -1,6 +1,3 @@
--- Zomato restaurant dataset schema (MySQL).
--- Column names match the source CSV. Analysis queries must also use MySQL syntax.
-
 CREATE TABLE restaurants (
     `Restaurant ID` BIGINT,
     `Restaurant Name` VARCHAR(255),
